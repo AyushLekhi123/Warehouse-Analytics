@@ -46,10 +46,10 @@ Huge thanks to [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-s
 
 ```plaintext
 📁 sql-scripts/
-├── 01_change_over_time.sql
-├── 02_cumulative_analysis.sql
-├── 03_segmentation.sql
-├── 04_part_to_whole.sql
-├── 05_performance_analysis.sql
-├── 06_customers_report.sql
-└── 07_products_report.sql
+├── 01_Report_Customers.sql
+├── 02_Report_Products.sql
+├── 03_change_over_time.sql
+├── 04_cumulative_analysis.sql
+├── 05_segmentation.sql
+├── 06_part_to_whole.sql
+└── 07_performance_analysis.sql
